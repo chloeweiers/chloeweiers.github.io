@@ -156,12 +156,10 @@ li {
   display: inline-block;
   vertical-align: middle;
   margin: 0.5em 0;
-  min-height: 100%;
 }
 
 .home-col-1 {
   margin-right: 2em;
-  min-height: 100%;
 }
 
 .home-name {
@@ -196,4 +194,5 @@ li {
 
 .site-footer {
   background: #121212;
+  min-height: 100%
 }
