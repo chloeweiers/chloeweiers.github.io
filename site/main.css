@@ -191,3 +191,7 @@ li {
   max-width: 100%;
   vertical-align: middle;
 }
+
+.site-footer {
+  background: #121212;
+}
