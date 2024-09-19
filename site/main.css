@@ -42,13 +42,13 @@ li {
 
 
 .site-header {
-  border-top: 5px solid #333;
-  border-bottom: 1px solid #ccc;
+  border-top: 5px solid #FFFFFF;
+  border-bottom: 1px solid #FFFFFF;
   vertical-align: middle;
   position: relative;
 }
 .site-header a {
-  color: #333;
+  color: #FFFFFF;
 }
 
 .site-title {
@@ -97,7 +97,7 @@ li {
   text-align: center;
 }
 .site-nav .menu-icon > svg path {
-  fill: #333;
+  fill: #FFFFFF;
 }
 .site-nav input ~ .trigger {
   clear: both;
@@ -129,7 +129,7 @@ li {
 }
 
 .page-nav .section-link {
-  color: #333;
+  color: #FFFFFF;
   margin-right: 0.5em;
 }
 .page-nav .section-link:before {
