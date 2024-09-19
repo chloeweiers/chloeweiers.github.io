@@ -1,5 +1,5 @@
 body {
-  color: #333;
+  color: #FFFFFF;
   font-family: sans-serif;
   font-size: 13px;
 }
@@ -12,7 +12,7 @@ a:visited {
   color: #1756a9;
 }
 a:hover {
-  color: #111;
+  color: #BB86FC;
   text-decoration: underline;
 }
 a:focus {
