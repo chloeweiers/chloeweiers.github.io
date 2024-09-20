@@ -9,10 +9,10 @@ a {
   text-decoration: none;
 }
 a:visited {
-  color: #1756a9;
+  color: #7661C2;
 }
 a:hover {
-  color: #BB86FC;
+  color: #D4904F;
   text-decoration: underline;
 }
 a:focus {
@@ -190,8 +190,4 @@ li {
   display: inline-block;
   max-width: 100%;
   vertical-align: middle;
-}
-
-.site-footer {
-  background: #121212;
 }
