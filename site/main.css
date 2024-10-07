@@ -70,13 +70,7 @@ li {
 @media screen and (max-width: 600px) {
 
 .site-nav {
-  position: absolute;
-  top: 0.3em;
-  right: 1em;
-  background-color: #121212;
-  border: 1px solid #ccc;
-  border-radius: 0.5em;
-  text-align: right;
+
 }
 .site-nav label[for="nav-trigger"] {
   display: block;
