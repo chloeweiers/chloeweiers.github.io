@@ -55,8 +55,7 @@ li {
 }
 
 .site-nav {
-  float: right;
-  margin-top: 0.5em;
+  display: none;
 }
 .site-nav .page-link:not(:last-child) {
   margin-right: 1em;
